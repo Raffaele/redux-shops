@@ -1,0 +1,63 @@
+{
+  "shops": [
+    {
+      "id": "baba",
+      "name": "Lidl"
+    },
+    {
+      "name": "Tesco",
+      "id": "202c"
+    },
+    {
+      "name": "Sainsbury",
+      "id": "de72"
+    }
+  ],
+  "products": [
+    {
+      "id": "3bc7",
+      "name": "bread",
+      "shopId": "baba",
+      "isSelected": false,
+      "quantity": 5
+    },
+    {
+      "name": "milk",
+      "id": "c29a"
+    },
+    {
+      "name": "riprova",
+      "id": "10be"
+    },
+    {
+      "name": "pornif",
+      "id": "bb50"
+    },
+    {
+      "id": "ba7c",
+      "name": "Milk",
+      "quantity": 5,
+      "shopId": "de72",
+      "isSelected": false
+    },
+    {
+      "id": "ebdd",
+      "name": "cookies",
+      "quantity": 1,
+      "shopId": "de72",
+      "isSelected": false
+    },
+    {
+      "id": "5e6e",
+      "name": "eggs",
+      "quantity": 6,
+      "shopId": "de72"
+    },
+    {
+      "id": "83f5",
+      "name": "shugar",
+      "quantity": 1,
+      "shopId": "202c"
+    }
+  ]
+}
